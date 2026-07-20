@@ -10,11 +10,11 @@
 <br/>
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│  focus   audio · agents · developer tooling             │
-│  stack   C++ · Python · TypeScript · Rust               │
-│  status  shipping tools that hear · think · extend      │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│ focus  audio · agents · tooling          │
+│ stack  C++ · Python · TS · Rust          │
+│ build  tools that hear · think · extend  │
+└──────────────────────────────────────────┘
 ```
 
 [![GitHub](https://img.shields.io/badge/GitHub-caizhirong486--lab-181717?style=flat-square&logo=github)](https://github.com/caizhirong486-lab)
@@ -47,10 +47,10 @@ I write code in Chinese contexts and ship docs in English — moving between **a
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![VST3](https://img.shields.io/badge/VST3-Audio_Plugin-0f766e?style=flat-square)
@@ -82,12 +82,24 @@ I write code in Chinese contexts and ship docs in English — moving between **a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=caizhirong486-lab&show_icons=true&theme=transparent&hide_border=true&title_color=5eead4&icon_color=2dd4bf&text_color=94a3b8&ring_color=14b8a6" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caizhirong486-lab&layout=compact&theme=transparent&hide_border=true&title_color=5eead4&text_color=94a3b8" height="165" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=caizhirong486-lab&show_icons=true&theme=transparent&hide_border=true&title_color=5eead4&icon_color=2dd4bf&text_color=94a3b8&ring_color=14b8a6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=caizhirong486-lab&show_icons=true&theme=transparent&hide_border=true&title_color=0f766e&icon_color=0d9488&text_color=475569&ring_color=14b8a6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=caizhirong486-lab&show_icons=true&theme=transparent&hide_border=true&title_color=5eead4&icon_color=2dd4bf&text_color=94a3b8&ring_color=14b8a6" height="165" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caizhirong486-lab&layout=compact&theme=transparent&hide_border=true&title_color=5eead4&text_color=94a3b8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caizhirong486-lab&layout=compact&theme=transparent&hide_border=true&title_color=0f766e&text_color=475569" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caizhirong486-lab&layout=compact&theme=transparent&hide_border=true&title_color=5eead4&text_color=94a3b8" height="165" alt="Top languages" />
+</picture>
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/caizhirong486-lab/caizhirong486-lab/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caizhirong486-lab/caizhirong486-lab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caizhirong486-lab/caizhirong486-lab/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/caizhirong486-lab/caizhirong486-lab/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</picture>
 
 </div>
 
