@@ -3,7 +3,7 @@
 <!-- typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Audio+Developer+%C2%B7+AI+Agent+Builder;Skill+%26+Plugin+Engineer)](https://git.io/typing-svg)
 
-### 蔡志荣 · Zhirong Cai
+### Zhirong Cai
 **音频开发 × AI Agent × Skill / Plugin**  
 *Audio Engineering · AI Agents · Skills & Plugins*
 
@@ -40,45 +40,6 @@ I write code in Chinese contexts and ship docs in English — moving between **a
 | **Audio** | VST3 · acoustic features · distortion detection · film post |
 | **Agents** | coding agents · tool loops · terminal workflows |
 | **Extensibility** | Skills · Plugins · MCP-style integrations |
-
----
-
-## Featured · 精选项目
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎧 Audio
-
-**[acoustic-scene-fitter](https://github.com/caizhirong486-lab/acoustic-scene-fitter)**  
-VST3 · 3D acoustic scene fitting & reverb matching for film post  
-影视后期三维声场拟合与混响匹配
-
-**[audio-distortion-detect](https://github.com/caizhirong486-lab/audio-distortion-detect)**  
-规则引擎 + FastAPI · 生成视频音频失真检测与 L0–L3 分级  
-Rule engine + FastAPI for generative-audio distortion grading
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 Agents & Extensibility
-
-**[excel-prompt-batch-assistant](https://github.com/caizhirong486-lab/excel-prompt-batch-assistant)**  
-Excel 驱动的 Prompt 批处理助手  
-Batch prompt workflows driven by spreadsheets
-
-**[0509-translate-agent-skill](https://github.com/caizhirong486-lab/0509-translate-agent-skill)**  
-Agent Skill · 翻译工作流  
-Translation skill for agent runtimes
-
-**[grok-build](https://github.com/caizhirong486-lab/grok-build)**  
-Agent CLI 改造 · 第三方网关兼容补丁  
-Patches for third-party Anthropic-compatible gateways
-
-</td>
-</tr>
-</table>
 
 ---
 
