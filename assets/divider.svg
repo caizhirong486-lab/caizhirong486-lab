@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="28" viewBox="0 0 960 28" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E8A87C" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#E8A87C" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#9AE6B4" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#7DD3FC" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#7DD3FC" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M40 14 H920" stroke="#1e293b" stroke-width="1"/>
+  <path fill="none" stroke="url(#line)" stroke-width="1.6" stroke-linecap="round"
+    d="M120 14 C 220 14, 260 6, 320 10 S 420 24, 480 14 S 560 4, 640 12 S 740 24, 840 14">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="
+        M120 14 C 220 14, 260 6, 320 10 S 420 24, 480 14 S 560 4, 640 12 S 740 24, 840 14;
+        M120 14 C 220 14, 250 22, 320 16 S 420 4, 480 12 S 560 24, 640 16 S 740 6, 840 14;
+        M120 14 C 220 14, 260 6, 320 10 S 420 24, 480 14 S 560 4, 640 12 S 740 24, 840 14
+      "/>
+  </path>
+</svg>
