@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Game+%26+Audio+Developer;Unity+(C%23)+%C2%B7+Unreal+Engine+5;AI+Agent+Builder+%C2%B7+Skill+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=120&lines=Game+%26+Audio+Developer;Unity+(C%23)+%C2%B7+Unreal+Engine+5;AI+Agent+Builder+%C2%B7+Skill+Engineer)](https://git.io/typing-svg)
 
 ### Zhirong Cai
 **游戏/音频开发 × AI Agent × Skill / Plugin**  
