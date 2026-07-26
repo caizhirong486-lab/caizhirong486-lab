@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- typing -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Audio+Developer+%C2%B7+AI+Agent+Builder;Skill+%26+Plugin+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1200&color=5EEAD4&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=Game+%26+Audio+Developer;Unity+(C%23)+%C2%B7+Unreal+Engine+5;AI+Agent+Builder+%C2%B7+Skill+Engineer)](https://git.io/typing-svg)
 
 ### Zhirong Cai
-**音频开发 × AI Agent × Skill / Plugin**  
-*Audio Engineering · AI Agents · Skills & Plugins*
+**游戏/音频开发 × AI Agent × Skill / Plugin**  
+*Game & Audio Engineering · AI Agents · Skills & Plugins*
 
 <br/>
 
 ```text
 ┌──────────────────────────────────────────┐
-│ focus  audio · agents · tooling          │
-│ stack  C++ · Python · TS · Rust          │
-│ build  tools that hear · think · extend  │
+│ focus  game · audio · agents · tooling   │
+│ stack  C# · C++ · Python · TS · Rust     │
+│ engine Unity · Unreal Engine 5           │
 └──────────────────────────────────────────┘
 ```
 
@@ -27,16 +27,17 @@
 ## About · 关于
 
 ```diff
-+ Building systems that process sound and systems that act.
-+ 做会「听」的系统，也做会「做」的系统。
++ Crafting games, sound systems & agentic tools.
++ 做有趣的游戏、会「听」的音频系统、会「做」的 Agent。
 ```
 
-中文写代码，英文写文档；在 **声学算法 / 影视音频工具** 和 **Agent · Skill · Plugin 工程化** 之间切换。
+中文写代码，英文写文档；主修 **C# (Unity)** 与 **UE5 (C++)** 游戏工程，兼顾 **声学算法 / 音频系统** 和 **Agent · Skill · Plugin** 开发。
 
-I write code in Chinese contexts and ship docs in English — moving between **acoustic algorithms / film-audio tools** and **agent · skill · plugin engineering**.
+I write code in Chinese contexts and ship docs in English — focusing on **C# (Unity) & UE5 game dev**, **acoustic algorithms**, and **agent · skill · plugin engineering**.
 
 | | |
 |:--|:--|
+| **Game Dev** | Unity (C#) · Unreal Engine 5 (C++) · gameplay systems |
 | **Audio** | VST3 · acoustic features · distortion detection · film post |
 | **Agents** | coding agents · tool loops · terminal workflows |
 | **Extensibility** | Skills · Plugins · MCP-style integrations |
@@ -47,12 +48,14 @@ I write code in Chinese contexts and ship docs in English — moving between **a
 
 <div align="center">
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![VST3](https://img.shields.io/badge/VST3-Audio_Plugin-0f766e?style=flat-square)
 ![Agent Skills](https://img.shields.io/badge/Agent-Skills-14b8a6?style=flat-square)
 ![Plugins](https://img.shields.io/badge/Plugins-MCP_/_Extensibility-5eead4?style=flat-square&labelColor=134e4a)
@@ -64,17 +67,17 @@ I write code in Chinese contexts and ship docs in English — moving between **a
 ## Focus · 当前方向
 
 ```text
-[■■■■■■■■■■□□]  audio tooling & signal-aware backends
-[■■■■■■■■■□□□]  agent skills / plugins / developer UX
-[■■■■■■□□□□□□]  film-post & generative-audio quality
+[■■■■■■■■■■□□]  game systems & gameplay logic (Unity / UE5)
+[■■■■■■■■■□□□]  audio tooling & signal-aware backends
+[■■■■■■■■□□□□]  agent skills / plugins / developer UX
 ```
 
+- **可交互的游戏** — 玩法逻辑、引擎架构与原生拓展  
+  *Interactive gameplay — engine architecture & native extensions*
 - **听得到的质量** — 特征、规则、分级，而不只是 demo  
   *Measurable audio quality — features, rules, grades, not just demos*
 - **可扩展的 Agent** — Skill / Plugin 优先，能接进真实工作流  
   *Extensible agents — skills & plugins that fit real workflows*
-- **少而精的工具** — 解决一个明确问题，再组合  
-  *Sharp tools — solve one clear problem, then compose*
 
 ---
 
@@ -109,7 +112,7 @@ I write code in Chinese contexts and ship docs in English — moving between **a
 
 ```text
 // always shipping · 持续交付
-// audio in · agents out · skills everywhere
+// games & audio in · agents out · skills everywhere
 ```
 
 **Thanks for visiting · 感谢来访**
