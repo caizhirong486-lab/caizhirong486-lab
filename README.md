@@ -30,12 +30,40 @@
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
+## `// work`
+
+### [`SyncTrack-Prep`](https://github.com/caizhirong486-lab/SyncTrack-Prep)
+
+```text
+VST3 insert  ·  C++17 / JUCE 8  ·  macOS Universal 2 + Win x64  ·  AGPL-3.0
+chain     channel repair → leveler → HPF → denoise → peak comp → −1 dBTP limit
+latency   fixed 575 samples  ·  verified in Cubase / Nuendo
+extras    offline CLI renderer  ·  3 analysis scripts (A/B · gate · stereo noise)
+```
+
+同期声修复、整平与真峰限制 —— 目标是对白可听度，不是投递响度。四个控件，固定延迟，宿主补偿准确。  
+*Repairs, levels and true-peak-limits production audio for video post.*
+
+### [`unity-agent-bootstrap`](https://github.com/caizhirong486-lab/unity-agent-bootstrap)
+
+```text
+Agent Skill  ·  Unity 2022.3 LTS  ·  MCP + Unity-Skills + Wwise 2024.1  ·  MIT
+part A    automation — packages · editor auto-start · stdio client · checklist
+part B    Wwise audio — version pairing · integration · SoundBank · code hookup
+notes     11 documented gotchas with grep-able symptoms and fixes
+```
+
+把 Unity 工程接进 AI 辅助开发：MCP 桥、UnitySkills REST 通道、Wwise 接线。两条轨道各自独立，可单独使用。  
+*Gets a Unity project ready for AI-assisted work. Two independent tracks.*
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
 ## `// stack`
 
 ```text
 languages   C#  ·  C++  ·  Python  ·  TypeScript  ·  Rust
-engines     Unity  ·  Unreal Engine 5
-surfaces    VST3  ·  Agent Skills  ·  Plugins  ·  MCP
+engines     Unity  ·  Unreal Engine 5  ·  Wwise
+surfaces    JUCE / VST3  ·  Agent Skills  ·  Plugins  ·  MCP
 ```
 
 <p align="center">
@@ -56,9 +84,9 @@ surfaces    VST3  ·  Agent Skills  ·  Plugins  ·  MCP
 ## `// focus`
 
 ```text
-GAME     ████████████████░░░░   systems · gameplay · engine work
-AUDIO    ███████████████░░░░░   tooling · signal-aware backends
-AGENT    ██████████████░░░░░░   skills · plugins · developer UX
+GAME     systems  ·  gameplay  ·  engine work
+AUDIO    tooling  ·  signal-aware backends
+AGENT    skills  ·  plugins  ·  developer UX
 ```
 
 - **Interactive games** — 玩法逻辑、引擎架构与原生拓展  
@@ -102,6 +130,8 @@ AGENT    ██████████████░░░░░░   skills �
 ```text
 // games & audio in · agents out · skills everywhere
 ```
+
+<sub>issues · [SyncTrack-Prep](https://github.com/caizhirong486-lab/SyncTrack-Prep/issues) · [unity-agent-bootstrap](https://github.com/caizhirong486-lab/unity-agent-bootstrap/issues)</sub>
 
 <sub>thanks for stopping by</sub>
 
