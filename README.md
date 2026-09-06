@@ -32,6 +32,19 @@
 
 ## `// work`
 
+### [`UE_BPToolkit`](https://github.com/caizhirong486-lab/UE_BPToolkit)
+
+```text
+Agent toolkit  ·  UE 5.4+  ·  C++ editor plugin + Python CLI / MCP server  ·  MIT
+read      bp_dump — graphs → nodes → pins, SCS component tree, variables
+review    bp_review — exec chains from each entry event · Wwise touchpoints · issues
+generate  bp_generate — blueprint from JSON spec, compile + save, per-node errors
+verified  UE 5.4.4 · City Sample (985+ node blueprints, Wwise integration)
+```
+
+`.uasset` 是二进制、`EdGraph.Nodes` 受保护，Agent 看不见蓝图逻辑。这套用编辑器侧 C++ 插件暴露读写原语，配常驻 headless 会话，让 MCP 客户端能读、能审、能生成蓝图。  
+*Lets AI agents actually read, review and generate Unreal blueprints.*
+
 ### [`SyncTrack-Prep`](https://github.com/caizhirong486-lab/SyncTrack-Prep)
 
 ```text
@@ -131,7 +144,7 @@ AGENT    skills  ·  plugins  ·  developer UX
 // games & audio in · agents out · skills everywhere
 ```
 
-<sub>issues · [SyncTrack-Prep](https://github.com/caizhirong486-lab/SyncTrack-Prep/issues) · [unity-agent-bootstrap](https://github.com/caizhirong486-lab/unity-agent-bootstrap/issues)</sub>
+<sub>issues welcome · [all repos](https://github.com/caizhirong486-lab?tab=repositories)</sub>
 
 <sub>thanks for stopping by</sub>
 
